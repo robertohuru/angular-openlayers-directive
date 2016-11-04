@@ -1,0 +1,19 @@
+{
+  type: "FeatureCollection",
+     features: [
+        {
+           type: "Feature",
+           id: 1,
+           geometry: {
+              type: "Point",
+              coordinates: [15.520376,38.231155]
+           },
+           properties: {
+              name: "Narok Town",
+              elevation: "1867",
+              market_days: "Wednesday",
+              livestock_spec: "Cattle, sheep, goats"
+           }
+         }
+    ]
+}
